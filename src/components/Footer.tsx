@@ -156,14 +156,14 @@ export function Footer() {
               © {new Date().getFullYear()} Flame Game Restaurant. All rights reserved.
             </p>
             <a
-              href="https://alihaiderportfoli.netlify.app/"
+              href="https://hiusman.com"
               target="_blank"
               rel="noopener noreferrer"
               className="shine-link flex items-center gap-2 text-muted-foreground hover:text-primary transition-colors"
             >
               <Globe size={18} className="globe-icon" />
               <span className="shine-wrapper text-sm">
-                Design & Development by Ali Haider
+                Design & Development by Usman Zafar
                 <span className="shine-overlay"></span>
               </span>
             </a>
